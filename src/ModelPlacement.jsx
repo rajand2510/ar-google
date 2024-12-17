@@ -36,7 +36,7 @@ const ModelPlacement = ({ modelUrl }) => {
   };
 
   return (
-    <div style={{ width: "100%", height: "500px" }}>
+    <div style={{ width: "100%", height: "100%" }}>
       {/* Model Viewer */}
       <model-viewer
         ref={modelViewerRef}
@@ -47,22 +47,6 @@ const ModelPlacement = ({ modelUrl }) => {
         style={{ width: "100%", height: "100%" }}
         onArHitTest={handleARPlacement} // For AR mode placement
       >
-        {/* Instructions Overlay */}
-        {!isPlaced && (
-          <div
-            style={{
-              position: "absolute",
-              top: "10px",
-              left: "10px",
-              backgroundColor: "black",
-              color: "white",
-              padding: "8px",
-              fontSize: "12px",
-            }}
-          >
-            Tap on the surface to place the model in AR mode.
-          </div>
-        )}
       </model-viewer>
 
       {/* Scale Controls */}
