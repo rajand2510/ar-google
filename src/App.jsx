@@ -8,15 +8,12 @@ import RazorpayPayment from './UserComponents/Checkout';
 import MainProduct from './components/product/MainProduct';
 import MyOrder from './UserComponents/MyOrder';
 import ToasterComponent from './PageNotFound/ToasterComponent';
-import ARModelWithRing from './ARModelWithRing';
+import ModelPlacement from './ModelPlacement';
 function App() {
   
   return (
 <Routes>
-<Route path="/" element={<ARModelWithRing 
-        
-        mainModelSrc="/models/sofa/scene.gltf" 
-        />} />
+<Route path="/" element={<ModelPlacement  modelUrl="/models/table_lamp/scene.gltf" />} />
 <Route path="/Checkout" element={<RazorpayPayment />} />
 <Route path="/login" element={<Login/>} />
 <Route path="/signup" element={<Signup/>} />
