@@ -36,7 +36,7 @@ const ModelPlacement = ({ modelUrl }) => {
   };
 
   return (
-    <div style={{ width: "100%", height: "100%" }}>
+    <div style={{ width: "100%", height: "90%" }}>
       {/* Model Viewer */}
       <model-viewer
         ref={modelViewerRef}
@@ -47,15 +47,16 @@ const ModelPlacement = ({ modelUrl }) => {
         style={{ width: "100%", height: "100%" }}
         onArHitTest={handleARPlacement} // For AR mode placement
       >
-      </model-viewer>
-
-      {/* Scale Controls */}
+        {/* Scale Controls */}
       {isPlaced && (
         <div style={{ position: "absolute", bottom: "10px", left: "10px", color: "white" }}>
           <button onClick={increaseScale} style={{ marginRight: "10px" }}>Increase Scale</button>
           <button onClick={decreaseScale}>Decrease Scale</button>
         </div>
       )}
+      </model-viewer>
+
+      
     </div>
   );
 };
