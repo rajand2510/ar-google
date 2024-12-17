@@ -1,0 +1,440 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1216,
+      "max": [
+        138.3975830078125,
+        32.341552734375,
+        149.26742553710938
+      ],
+      "min": [
+        -119.1525650024414,
+        -296.2063903808594,
+        -32.365020751953125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 14592,
+      "componentType": 5126,
+      "count": 1216,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1216,
+      "max": [
+        1.0,
+        1.0,
+        0.9908689260482788,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9904806613922119,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1216,
+      "max": [
+        0.9983652234077454,
+        0.9994999766349792
+      ],
+      "min": [
+        0.0005000000237487257,
+        0.001305699348449707
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 9728,
+      "componentType": 5126,
+      "count": 1216,
+      "max": [
+        0.9983652234077454,
+        0.9994999766349792
+      ],
+      "min": [
+        0.0005000000237487257,
+        0.001305699348449707
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 19456,
+      "componentType": 5126,
+      "count": 1216,
+      "max": [
+        0.9983652234077454,
+        0.9994999766349792
+      ],
+      "min": [
+        0.0005000000237487257,
+        0.001305699348449707
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 29184,
+      "componentType": 5126,
+      "count": 1216,
+      "max": [
+        0.9983652234077454,
+        0.9994999766349792
+      ],
+      "min": [
+        0.0005000000237487257,
+        0.001305699348449707
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 3660,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "homefurni (https://sketchfab.com/homefurni)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/bedside-cupboard-home-decor-4247e4a62aa740549069950a2e8e08ad",
+      "title": "Bedside  Cupboard Home Decor"
+    },
+    "generator": "Sketchfab-15.31.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 14640,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 38912,
+      "byteOffset": 14640,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 29184,
+      "byteOffset": 53552,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 19456,
+      "byteOffset": 82736,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 102192,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Mat3d66_5364318_46_65085_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Mat3d66_5364318_46_65085_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Mat3d66_5364318_46_65085_normal.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Mat3d66_5364318_46_65085",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Obj3d66_5364318_131_387_Mat3d66_5364318_46_65085_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.2204459996194763e-18,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        2.2204459996194763e-18,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "USDRoot"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "scene"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        100.0,
+        0.0,
+        616.5662841796875,
+        0.0,
+        134.4673614501953,
+        1.0
+      ],
+      "name": "Meshes"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1.3333333730697632,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.9605948205663494e-16,
+        -1.3333333730697632,
+        0.0,
+        0.0,
+        1.3333333730697632,
+        2.9605948205663494e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        0.0010000000474974513,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0010000000474974513,
+        0.0,
+        0.0,
+        -0.0010000000474974513,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "bedside_cupboard_FBX"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.7624510526657104,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.7624510526657104,
+        2.8713972710647795e-07,
+        0.0,
+        0.0,
+        -2.8713972710647795e-07,
+        1.7624510526657104,
+        0.0,
+        -4624.2470703125,
+        -9.52337646484375,
+        -1008.505126953125,
+        1.0
+      ],
+      "name": "Obj3d66_5364318_131_387"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -9.62238597869873,
+        295.8351745605469,
+        -58.45122146606445,
+        1.0
+      ],
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": "Obj3d66_5364318_131_387_Mat3d66_5364318_46_65085_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Obj3d66_5364318_131_387_Mat3d66_5364318_46_65085_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

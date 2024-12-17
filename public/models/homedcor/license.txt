@@ -1,0 +1,11 @@
+Model Information:
+* title:	Home decor owl - 3D Scan
+* source:	https://sketchfab.com/3d-models/home-decor-owl-3d-scan-73e71beacf4f4e68ba76eb73155ee845
+* author:	Scanned World (https://sketchfab.com/scannedworld)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Home decor owl - 3D Scan" (https://sketchfab.com/3d-models/home-decor-owl-3d-scan-73e71beacf4f4e68ba76eb73155ee845) by Scanned World (https://sketchfab.com/scannedworld) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

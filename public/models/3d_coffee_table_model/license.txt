@@ -1,0 +1,11 @@
+Model Information:
+* title:	3d coffee table model
+* source:	https://sketchfab.com/3d-models/3d-coffee-table-model-f1b8254f3e1049bfabf951e5227ce424
+* author:	Sadeem Shoaib (https://sketchfab.com/sadeempropro)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3d coffee table model" (https://sketchfab.com/3d-models/3d-coffee-table-model-f1b8254f3e1049bfabf951e5227ce424) by Sadeem Shoaib (https://sketchfab.com/sadeempropro) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

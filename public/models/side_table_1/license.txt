@@ -1,0 +1,8 @@
+Model Information:
+* title:	Side Table 1
+* source:	https://sketchfab.com/3d-models/side-table-1-21f280fbe6de4ebf9f487c3852fc411c
+* author:	Digital Graffiti (https://sketchfab.com/Graffiti.Labs)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

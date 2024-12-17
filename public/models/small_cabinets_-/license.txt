@@ -1,0 +1,11 @@
+Model Information:
+* title:	Small cabinets - 小柜子
+* source:	https://sketchfab.com/3d-models/small-cabinets-549f69e04a444127a66b0b46d0649ea5
+* author:	MrdT (https://sketchfab.com/mrdt.club)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Small cabinets - 小柜子" (https://sketchfab.com/3d-models/small-cabinets-549f69e04a444127a66b0b46d0649ea5) by MrdT (https://sketchfab.com/mrdt.club) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

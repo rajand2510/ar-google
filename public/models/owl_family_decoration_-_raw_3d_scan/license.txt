@@ -1,0 +1,8 @@
+Model Information:
+* title:	Owl Family decoration - raw 3D Scan
+* source:	https://sketchfab.com/3d-models/owl-family-decoration-raw-3d-scan-4392d0e7895b4f2f878e087a54321d24
+* author:	Denys Almaral (https://sketchfab.com/denysalmaral)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

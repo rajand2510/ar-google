@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*, *::before, *::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+/* Scrollbar styling (target all browsers) */
+*::-webkit-scrollbar {
+  width: 8px; /* Adjust width as needed */
+  height: 8px; /* Adjust height for horizontal scrollbars */
+}
+
+*::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Light background color */
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #b8d7b5; /* Darker thumb color */
+  border-radius: 5px; /* Add some rounding */
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: #bbb; /* Change thumb color on hover */
+}

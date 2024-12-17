@@ -1,0 +1,708 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 836,
+      "max": [
+        14.972321510314941,
+        68.10680389404297,
+        14.886024475097656
+      ],
+      "min": [
+        -14.972609519958496,
+        0.0,
+        -14.88623046875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10032,
+      "componentType": 5126,
+      "count": 836,
+      "max": [
+        0.9999200105667114,
+        1.0,
+        0.9941540360450745
+      ],
+      "min": [
+        -0.9999200105667114,
+        -1.0,
+        -0.9941540360450745
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 836,
+      "max": [
+        0.9993255734443665,
+        0.8781046271324158,
+        0.9999353885650635,
+        1.0
+      ],
+      "min": [
+        -0.9993256330490112,
+        -0.8766000270843506,
+        -0.9999353885650635,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 836,
+      "max": [
+        1.1312757730484009,
+        0.9989535212516785
+      ],
+      "min": [
+        0.04663616418838501,
+        0.07148323208093643
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6688,
+      "componentType": 5126,
+      "count": 836,
+      "max": [
+        1.1312757730484009,
+        0.9989535212516785
+      ],
+      "min": [
+        0.04663616418838501,
+        0.07148323208093643
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2964,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 20064,
+      "componentType": 5126,
+      "count": 892,
+      "max": [
+        22.41751480102539,
+        110.95628356933594,
+        22.288305282592773
+      ],
+      "min": [
+        -22.417945861816406,
+        0.0,
+        -22.288612365722656
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 30768,
+      "componentType": 5126,
+      "count": 892,
+      "max": [
+        0.999920129776001,
+        1.0,
+        0.9941540956497192
+      ],
+      "min": [
+        -0.9999202489852905,
+        -1.0,
+        -0.9941554665565491
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 13376,
+      "componentType": 5126,
+      "count": 892,
+      "max": [
+        0.9995084404945374,
+        0.8319538235664368,
+        0.9999390840530396,
+        1.0
+      ],
+      "min": [
+        -0.9995093941688538,
+        -0.8300418853759766,
+        -0.9999390840530396,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 13376,
+      "componentType": 5126,
+      "count": 892,
+      "max": [
+        1.1312757730484009,
+        0.9989535212516785
+      ],
+      "min": [
+        0.10551628470420837,
+        0.06769808381795883
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 20512,
+      "componentType": 5126,
+      "count": 892,
+      "max": [
+        1.1312757730484009,
+        0.9989535212516785
+      ],
+      "min": [
+        0.10551628470420837,
+        0.06769808381795883
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 11856,
+      "componentType": 5125,
+      "count": 3120,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 41472,
+      "componentType": 5126,
+      "count": 790,
+      "max": [
+        14.893181800842285,
+        60.84639358520508,
+        14.89316177368164
+      ],
+      "min": [
+        -14.893176078796387,
+        -2.3057632461132016e-06,
+        -14.893184661865234
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 50952,
+      "componentType": 5126,
+      "count": 790,
+      "max": [
+        0.9998458623886108,
+        1.0,
+        0.9998458623886108
+      ],
+      "min": [
+        -0.9998458623886108,
+        -1.0,
+        -0.9998458623886108
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 27648,
+      "componentType": 5126,
+      "count": 790,
+      "max": [
+        0.9999297261238098,
+        0.8327397108078003,
+        0.9999300241470337,
+        1.0
+      ],
+      "min": [
+        -0.9999297261238098,
+        -0.8326455354690552,
+        -0.9999295473098755,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 27648,
+      "componentType": 5126,
+      "count": 790,
+      "max": [
+        0.9930133819580078,
+        0.24547138810157776
+      ],
+      "min": [
+        0.013225105591118336,
+        0.009661495685577393
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 33968,
+      "componentType": 5126,
+      "count": 790,
+      "max": [
+        0.9930133819580078,
+        0.24547138810157776
+      ],
+      "min": [
+        0.013225105591118336,
+        0.009661495685577393
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24336,
+      "componentType": 5125,
+      "count": 3840,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 60432,
+      "componentType": 5126,
+      "count": 783,
+      "max": [
+        16.55636215209961,
+        74.85725402832031,
+        16.67831039428711
+      ],
+      "min": [
+        -16.55705451965332,
+        0.0,
+        -16.67831039428711
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 69828,
+      "componentType": 5126,
+      "count": 783,
+      "max": [
+        0.9924979209899902,
+        1.0,
+        0.9997876286506653
+      ],
+      "min": [
+        -0.9924982190132141,
+        -1.0,
+        -0.9997801184654236
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 40288,
+      "componentType": 5126,
+      "count": 783,
+      "max": [
+        0.9999999403953552,
+        0.797393798828125,
+        0.9945077896118164,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.7973990440368652,
+        -0.9945071339607239,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 40288,
+      "componentType": 5126,
+      "count": 783,
+      "max": [
+        1.1770474910736084,
+        0.9972677826881409
+      ],
+      "min": [
+        0.0923631340265274,
+        0.43855464458465576
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 46552,
+      "componentType": 5126,
+      "count": 783,
+      "max": [
+        1.1770474910736084,
+        0.9972677826881409
+      ],
+      "min": [
+        0.0923631340265274,
+        0.43855464458465576
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 39696,
+      "componentType": 5125,
+      "count": 2808,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Serhii3D (https://sketchfab.com/Serhii3D)",
+      "license": "SKETCHFAB Standard (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/golden-and-obsidian-vases-free-version-7f2fe9fa762b484dac1dc809acc7abc6",
+      "title": "Golden And Obsidian Vases Free Version"
+    },
+    "generator": "Sketchfab-16.8.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 50928,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 52816,
+      "byteOffset": 50928,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 79224,
+      "byteOffset": 103744,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 52816,
+      "byteOffset": 182968,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 235784,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/GoldAndObsidian_baseColor.png"
+    },
+    {
+      "uri": "textures/GoldAndObsidian_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/GoldAndObsidian_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "GoldAndObsidian",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Vessel_02_GoldAndObsidian_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Vessel_01_GoldAndObsidian_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Vase_01_GoldAndObsidian_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 15,
+            "TEXCOORD_1": 16
+          },
+          "indices": 17,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Vase_02_GoldAndObsidian_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 19,
+            "POSITION": 18,
+            "TANGENT": 20,
+            "TEXCOORD_0": 21,
+            "TEXCOORD_1": 22
+          },
+          "indices": 23,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GoldenAndObsidianDecorationsFree.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -61.751670837402344,
+        -0.001049041748046875,
+        -0.7844839096069336,
+        1.0
+      ],
+      "name": "Vessel_02"
+    },
+    {
+      "mesh": 0,
+      "name": "Vessel_02_GoldAndObsidian_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -2.2934377193450928,
+        -0.001049041748046875,
+        -36.58729934692383,
+        1.0
+      ],
+      "name": "Vessel_01"
+    },
+    {
+      "mesh": 1,
+      "name": "Vessel_01_GoldAndObsidian_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -3.0756771564483643,
+        -0.00012181699275970459,
+        33.93218231201172,
+        1.0
+      ],
+      "name": "Vase_01"
+    },
+    {
+      "mesh": 2,
+      "name": "Vase_01_GoldAndObsidian_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        49.87778091430664,
+        0.007653236389160156,
+        3.1049530506134033,
+        1.0
+      ],
+      "name": "Vase_02"
+    },
+    {
+      "mesh": 3,
+      "name": "Vase_02_GoldAndObsidian_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
